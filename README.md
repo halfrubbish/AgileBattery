@@ -1,5 +1,5 @@
 # AgileBattery
-Powershell module to allow Tesla Powerwall and Octopus Energy integration
+Powershell module to allow Tesla Powerwall and Octopus Energy integration for those on an Agile tariff. The module will continously control of the amount of energy stored in the powerwall, charging it during the cheapest periods of the day 
 
 # Setup
 You'll need to generate a Tesla refresh access token using the page here: https://tesla-info.com/tesla-token.php

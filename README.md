@@ -1,3 +1,7 @@
+This module is a work in progress and does not contain complete code. I am currently writing it and will remove this message when in a usable state. 
+
+
+
 # AgileBattery
 Powershell module to allow Tesla Powerwall and Octopus Energy integration for those on an Agile tariff. The module will continously control of the amount of energy stored in the powerwall, charging it during the cheapest periods of the day 
 

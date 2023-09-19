@@ -44,20 +44,20 @@ function Get-OctopusAgilePricing{
 
     .PARAMETER DistributionNetworkOperator
     Character that represents the DNO of your area. 
-    A â Eastern England
-    B â East Midlands
-    C â London
-    D â Merseyside and Northern Wales
-    E â West Midlands
-    F â North Eastern England
-    G â North Western England
-    H â Southern England
-    J â South Eastern England
-    K â Southern Wales
-    L â South Western England
-    M â Yorkshire
-    N â Southern Scotland
-    P â Northern Scotland           
+    A - Eastern England
+    B - East Midlands
+    C - London
+    D - Merseyside and Northern Wales
+    E - West Midlands
+    F - North Eastern England
+    G - North Western England
+    H - Southern England
+    J - South Eastern England
+    K - Southern Wales
+    L - South Western England
+    M - Yorkshire
+    N - Southern Scotland
+    P - Northern Scotland           
 
     #>
     [CmdletBinding()]

@@ -9,9 +9,9 @@ You'll need to set your powerwall to Time Based Control, and create a schedule w
 
 # Running it
 ```
-import-module AgileBattery.psm1
+Import-Module AgileBattery.psm1
 Invoke-AgileBatteryControl -RefreshToken "abcdefghijklmnop123456......etc"
 ```
 
-# Referral
-Use my referral link to buy a Tesla and get up to £500 off. https://ts.la/matt33479
+# Shameless Referral
+Found this useful? Considering buying a tesla? Use my referral link to buy a Tesla and get up to £500 off. https://ts.la/matt33479

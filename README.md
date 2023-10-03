@@ -15,3 +15,4 @@ Invoke-AgileBatteryControl -RefreshToken "abcdefghijklmnop123456......etc"
 
 # Shameless Referral
 Found this useful? Considering buying a tesla? Use my referral link to buy a Tesla and get up to £500 off. https://ts.la/matt33479
+Thinking of joining Octopus Energy? Use my referral link to save £50 https://share.octopus.energy/wise-snake-478

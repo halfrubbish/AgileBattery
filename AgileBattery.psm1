@@ -172,6 +172,9 @@ function Invoke-AgileBatteryControl {
         }
     }
 
+    # get API token
+    $apiToken = Get-TeslaApiToken $RefreshToken
+    
     # get Site Id                
     $energySiteId = [string](Get-TeslaEnergySiteId -ApiToken $apiToken)
             
